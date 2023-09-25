@@ -1,2 +1,2 @@
 # ChatApp
-End-to-End Simple Chat Application
+End-to-end simple Chat Application using React-Native with Expo Go
